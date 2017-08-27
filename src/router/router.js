@@ -1,6 +1,6 @@
 import Login from '../components/Login.vue'
 import NotFound from '../components/404.vue'
-import Main from '../components/Main.vue'
+import Main from '../components2/Main.vue'
 // import NotFound from './views/404.vue'
 // import Home from './views/Home.vue'
 // import Main from './views/Main.vue'
