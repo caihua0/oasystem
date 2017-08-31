@@ -1,6 +1,5 @@
 <template>
 <div class="main">
-	main
 	<top></top>
 	<left></left>
 	<right></right>
