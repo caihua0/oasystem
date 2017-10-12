@@ -1,8 +1,9 @@
 <template>
 <div class="main">
 	<top></top>
-	<left></left>
-	<right></right>
+  <left></left>
+  <right></right>
+
 </div>
 </template>
 <script>
@@ -24,5 +25,6 @@ export default {
 <style>
 .main{
 	box-sizing: border-box;
+  height: 100%;
 }
 </style>

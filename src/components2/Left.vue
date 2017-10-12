@@ -34,9 +34,11 @@
 .left{
 	float: left;
 	background-color: #222d32;
-	border: 1px solid #374850;
 	
-	min-height: 100%;
+	border: 1px solid #374850;
+
+	min-height: 300px;
+	height: 100%;
     width: 230px;
 	transition: transform .3s ease-in-out,width .3s ease-in-out;
 }
@@ -47,7 +49,7 @@
 
     box-sizing: border-box;
 	border-radius: 3px;
-	border: 1px solid #374850;
+	/*border: 1px solid #374850;*/
 	margin: 10px 10px;
 
 	/*background-color: #374850;*/
